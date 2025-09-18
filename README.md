@@ -79,14 +79,7 @@ Our current focus is developing **core infrastructure and agent functionality**.
 - [ ] Personalized Agent
 - [ ] Trading AI
 
-## Contributing
 
-We welcome contributions from the community! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
-## Development
 
-Information about setting up a local development environment can be found in [LOCAL_DEV.md](LOCAL_DEV.md).
 
-## Acknowledgements
-
-SendAI. (2024). Solana Agent Kit (Version 1.2.0) [Computer software]. https://github.com/sendaifun/solana-agent-kit
